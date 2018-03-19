@@ -1,0 +1,21 @@
+#title {
+    font-family: 'Lobster', cursive;
+    font-size: 2em;
+}
+
+.cards {
+    padding-left: 60px;
+    padding-top: 60px;
+}
+
+.card-body {
+    text-align: center;
+}
+
+.button {
+    color:white;
+    font-family: 'Acme', sans-serif;
+}
+.button:hover {
+   text-decoration-line: none;
+}
